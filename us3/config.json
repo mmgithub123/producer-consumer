@@ -1,0 +1,7 @@
+{
+    "public_key":"",
+    "private_key":"",
+    "bucket_name":"",
+    "file_host":"",
+    "verifyUploadMD5": false
+}
